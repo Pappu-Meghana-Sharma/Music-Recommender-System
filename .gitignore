@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environments
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Config files (sensitive info)
+config.py
