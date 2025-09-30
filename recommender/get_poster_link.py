@@ -36,9 +36,8 @@ class SpotifyAuthorization:
             self.token_expire_time=time.time()+result['expires_in'] #generally 3600 seconds
             
         return self.token
-            
+spotify_class=SpotifyAuthorization(CLIENT_ID,CLIENT_SECRET)           
 def get_poster(TRACK_ID):       
-    spotify_class=SpotifyAuthorization(CLIENT_ID,CLIENT_SECRET)
     ACCESS_TOKEN = spotify_class.get_token()
     
     #spotify track endpoint
