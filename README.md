@@ -1,6 +1,8 @@
 # 🎶 Music Recommendation System
 
-> A journey of building a music recommender from scratch - complete with all the failed experiments, eureka moments, and lessons learned along the way.
+> A journey of building a music recommender from scratch - complete with all the failed experiments and lessons learned along the way.
+
+**[Live Demo]([your-app-link-here](https://music-recommender-system-wwdytwieulwfrxkdpmgy2d.streamlit.app/))**
 
 ## 📖 What This Project Really Is
 
