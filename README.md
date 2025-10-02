@@ -2,7 +2,7 @@
 
 > A journey of building a music recommender from scratch - complete with all the failed experiments and lessons learned along the way.
 
-**[Live Demo]([your-app-link-here](https://music-recommender-system-wwdytwieulwfrxkdpmgy2d.streamlit.app/))**
+**[Live Demo](https://music-recommender-system-wwdytwieulwfrxkdpmgy2d.streamlit.app/)**
 
 ## 📖 What This Project Really Is
 
@@ -242,8 +242,6 @@ This project was never about building the next Spotify. It was about learning by
 - Built a complete product from dataset to deployment
 
 Now I actually understand the entire pipeline: **dataset → recommender → API integration → UI → deployment**.
-
-And honestly? The failed experiments taught me more than the parts that worked on the first try.
 
 ---
 
