@@ -253,6 +253,3 @@ MIT License - feel free to use this however you want.
 
 Found a bug? Have an idea? Open an issue or submit a PR. I'm always learning!
 
----
-
-Made with ☕ and a lot of trial and error.
